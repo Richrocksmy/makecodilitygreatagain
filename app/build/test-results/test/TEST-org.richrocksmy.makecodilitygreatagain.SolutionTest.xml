@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.richrocksmy.makecodilitygreatagain.SolutionTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2025-03-20T14:50:55.996Z" hostname="Mac.localdomain" time="0.025">
+  <properties/>
+  <testcase name="testCaseOne()" classname="org.richrocksmy.makecodilitygreatagain.SolutionTest" time="0.025">
+    <failure message="org.opentest4j.AssertionFailedError: &#10;expected: 4&#10; but was: 0" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: 
+expected: 4
+ but was: 0
+	at app//org.richrocksmy.makecodilitygreatagain.SolutionTest.testCaseOne(SolutionTest.java:16)
+	at java.base@21.0.5/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base@21.0.5/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base@21.0.5/java.util.ArrayList.forEach(ArrayList.java:1596)
+</failure>
+  </testcase>
+  <system-out><![CDATA[1
+3
+4
+Row totals: [4, 5, 9]
+Column totals: []
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
